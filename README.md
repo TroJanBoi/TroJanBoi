@@ -76,9 +76,9 @@ I've been learning to code for 5 years now and I still have a passion for it.
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/TroJanBoi">
-  <img src="https://github-readme-stats.vercel.app/api?username=TroJanBoi&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" height="250px"alt="TroJanBoi's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TroJanBoi&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" height="192px"alt="TroJanBoi's GitHub stats" />
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=TroJanBoi&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
-  <img alt="TroJanBoi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TroJanBoi&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="250px"/>
+  <img alt="TroJanBoi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TroJanBoi&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/>
 </a>
 
 
