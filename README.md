@@ -9,7 +9,8 @@ I've been learning to code for 5 years now and I still have a passion for it.
 * 🌍  I'm based in Bangkok, Thailand
 * 🧠  I'm learning Cyber Security
 
-### <p align="center"> Skills </p> 
+### <p align="center"> Languages/Frameworks I'm good at: </p> 
+-----------------------------------------------------
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
