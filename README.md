@@ -74,13 +74,13 @@ I've been learning to code for 5 years now and I still have a passion for it.
 ### Badges
 
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/TroJanBoi" align="center">
-  <img alt="TroJanBoi's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=TroJanBoi&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="200px"/>
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=TroJanBoi&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" height="200px" alt="TroJanBoi's GitHub stats" /> -->
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=TroJanBoi&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
-  <img alt="TroJanBoi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TroJanBoi&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" style="border: solid 1px" height="200px"/>
-</a>
-
+<p align="center">
+  <a href="http://www.github.com/TroJanBoi">
+    <img alt="TroJanBoi's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=TroJanBoi&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="200px"/>
+  <!--   <img src="https://github-readme-stats.vercel.app/api?username=TroJanBoi&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" height="200px" alt="TroJanBoi's GitHub stats" /> -->
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=TroJanBoi&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
+    <img alt="TroJanBoi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TroJanBoi&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" style="border: solid 1px" height="200px"/>
+  </a>
+</p>
 
 <a href="https://github.com/TroJanBoi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TroJanBoi&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
