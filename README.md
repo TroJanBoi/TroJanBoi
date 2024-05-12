@@ -12,7 +12,7 @@ I've been learning to code for 5 years now and I still have a passion for it.
 ### <p align="center"> Languages/Frameworks I'm good at: </p> 
 -----------------------------------------------------
 <p align="center">
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" style="text-decoration:none;" rel="noreferrer">
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" style="text-decoration:none;border-radius:10" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="45" height="45" alt="C" 43
   </a>
   <a href="https://www.python.org/" target="_blank" style="text-decoration:none;" rel="noreferrer">
@@ -24,7 +24,7 @@ I've been learning to code for 5 years now and I still have a passion for it.
 -----------------------------------------------------
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" style="border-bottum:10" width="36" height="36" alt="C" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
   </a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
