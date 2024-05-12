@@ -18,10 +18,10 @@ I've been learning to code for 5 years now and I still have a passion for it.
     <a href="https://www.python.org/" target="_blank" style="text-decoration:none;" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="45" height="45" alt="Python" />
     </a>
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <a href="https://www.php.net/" target="_blank" style="text-decoration:none;" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="45" height="45" alt="PHP" />
     </a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <a href="https://code.visualstudio.com/" style="text-decoration:none;" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="45" height="45" alt="VS Code" />
     </a>
     <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
