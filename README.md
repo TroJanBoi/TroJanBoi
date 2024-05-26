@@ -1,4 +1,4 @@
- <img src="https://www.python.org/](https://i.imgflip.com/7ky8s3.jpg" target="_blank" style="text-decoration:none;" rel="noreferrer"/>
+ <img src="https://www.python.org/](https://i.imgflip.com/7ky8s3.jpg" width="400" height="400"/>
 
 
 Hi There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
