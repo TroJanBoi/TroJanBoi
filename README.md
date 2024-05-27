@@ -1,6 +1,3 @@
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC9Z3yZZZCE91zt6mmluWHJCJqgIDZsJ1cdXvnhiIN_w&s" width="400" height="400"/>
-
-
 Hi There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ==========================================================================================================================================
 
