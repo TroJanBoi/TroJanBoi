@@ -4,8 +4,6 @@ Hi There ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 I am a student at Computer Engineering and <a href="https://www.42bangkok.com/th/" style="text-decoration:none;color:red;">42Bangkok</a>.
 -----------------------------------------------------
 
-I've been learning to code for 5 years now and I still have a passion for it.
-
 * 🌍  I'm based in Bangkok, Thailand
 * 🧠  I'm learning Cyber Security
 
