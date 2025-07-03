@@ -79,11 +79,16 @@
 
 ## 📊 GitHub Stats
 
-<div style="display:flex;">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trojanboi&layout=compact&theme=tokyonight" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=trojanboi&show_icons=true&theme=tokyonight" />
-  </p>
-</div>
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trojanboi&layout=compact&theme=tokyonight" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=trojanboi&show_icons=true&theme=tokyonight" />
+      </td>
+    </tr>
+  </table>
+</p>
+
