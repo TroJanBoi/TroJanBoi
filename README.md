@@ -69,8 +69,6 @@
 
 ---
 
----
-
 ## 🤝 Connect with me:
 
 <p align="left">
@@ -82,6 +80,7 @@
   </a>
 </p>
 
+---
 
 ## 📊 GitHub Stats
 
