@@ -3,14 +3,6 @@
 
 ---
 
-## 🤝 Connect with me:
-<!-- You can add your LinkedIn, Twitter, Email, Website here -->
-<p align="left">
-  <!-- Example: <a href="https://linkedin.com/in/yourname" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a> -->
-</p>
-
----
-
 ## 🚀 Languages & Tools
 
 ### 💻 Programming Languages
@@ -76,6 +68,20 @@
 </p>
 
 ---
+
+---
+
+## 🤝 Connect with me:
+
+<p align="left">
+  <a href="https://linkedin.com/in/peerapol-srisawat-a3396031a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/boatboa_t/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
 
 ## 📊 GitHub Stats
 
