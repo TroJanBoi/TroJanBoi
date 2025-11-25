@@ -82,10 +82,3 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trojanboi&layout=compact&theme=tokyonight" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=trojanboi&show_icons=true&theme=tokyonight" />
-</p>
